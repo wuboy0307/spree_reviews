@@ -69,3 +69,11 @@ en:
   was_this_review_helpful: "Was this review helpful to you?"
   write_your_own_review: Write your own review
   you_must_enter_value_for_rating: "You must enter a value for rating."
+  product: product
+  user: user
+  title: title
+  review: review
+  approval_status: "approval status"
+  search: search
+  update: update
+  or: or
