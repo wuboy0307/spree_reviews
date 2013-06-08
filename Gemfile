@@ -9,5 +9,6 @@ group :test do
   end
 end
 
-gem 'spree', github: 'spree/spree'
-gem 'spree_auth_devise', :git => 'git://github.com/spree/spree_auth_devise', :branch => '1-3-stable'
+gem 'spree', :github => 'spree/spree', :branch => '2-0-stable'
+gem 'spree_auth_devise', :github => 'spree/spree_auth_devise', :branch => '2-0-stable'
+gem 'impressionist'
